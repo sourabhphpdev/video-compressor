@@ -1,0 +1,2 @@
+# No third-party Python packages required.
+# Install FFmpeg separately; see README.md.
